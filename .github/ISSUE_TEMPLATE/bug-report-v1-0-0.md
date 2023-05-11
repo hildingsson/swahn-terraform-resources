@@ -10,7 +10,10 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Module**
+**Provide the error message that occurs**
+Paste the error message that has occurred.
+
+**Module or Parameter**
 Describe which Bicep Module was used when the problem ocurred.
 
 **Expected behavior**
@@ -19,6 +22,7 @@ A clear and concise description of what you expected to happen.
 **Code**
 If applicable, add the code that you have written in the field below.
 ```bicep
+example code
 ```
 
 **Desktop (please complete the following information):**
