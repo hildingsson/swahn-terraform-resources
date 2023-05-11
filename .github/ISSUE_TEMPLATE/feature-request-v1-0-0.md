@@ -10,7 +10,7 @@ assignees: ''
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I want `example` to occur when running module [...]
 
-**Describe the solution you'd like**
+**Describe the solution or Use Case you'd like**
 A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
